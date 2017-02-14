@@ -378,6 +378,9 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* End rotate box-1 */
 
+#youtube-parralax	{
+	background-color: rgba(0, 7, 11, 0.8);
+}
 
 /* Begin rotate box-2 */
 .rotate-box-2 .rotate-box-icon {
@@ -450,7 +453,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* Begin cta section */
 #cta-section {
-	padding: 70px 0 80px;
+	padding: 70px 0px ;
 }
 .cta-btn {
 	margin-top: 30px;
