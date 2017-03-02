@@ -204,10 +204,6 @@ a, a:hover, a:focus {
 #subscribe > button[type="submit"]:hover {
     background: none repeat scroll 0 0 #254378;
 }
-.tweet-content span{
-	color:#254378;
-}
-
 
 
 /* === Buttons === */
